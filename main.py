@@ -43,7 +43,7 @@ with col2:
         if uploaded_image is not None:
             image = Image.open(uploaded_image)
             st.subheader("Uploaded Image")
-            st.image(image, use_column_width=True)
+            st.image(image, use_column_width='auto')
 with col1:
     container2 = st.container(height=500, border=True)
 
