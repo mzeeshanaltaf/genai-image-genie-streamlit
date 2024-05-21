@@ -2,7 +2,7 @@
 A Generative AI application developed using Streamlit which uses Google Gemini model to read images and respond to user queries about the image
 
 # Application Link
-[https://st-yt-video-downloader.streamlit.app/](https://image-genie-app.streamlit.app/)
+https://image-genie-app.streamlit.app/
 
 # System Requirements
 You must have Python 3.9 or later installed. Earlier versions of python may not compile.
